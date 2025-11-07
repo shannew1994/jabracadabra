@@ -268,7 +268,6 @@ ML_Insights/
 ├── regex_wake_detector.py          # Regex wake detection
 ├── whisper_transcriber.py          # Audio transcription
 ├── basic_audio_recorder.py         # Basic audio recorder
-├── faster_whisper_test.py          # Test utilities
 ├── models/                         # Wake word models (.tflite/.onnx)
 ├── sound/                          # Notification sounds
 │   └── blow.aiff

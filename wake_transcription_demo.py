@@ -1,8 +1,8 @@
 #!/usr/bin/env python3
 """
 Wake word + transcription using:
-- speech_recognition for mic capture (smart chunking)
-- faster_whisper for transcription (better than speech_recognition's built-in)
+- speech_recognition for mic capture 
+- faster_whisper for transcription 
 - openwakeword for wake word detection
 """
 

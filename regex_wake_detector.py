@@ -62,7 +62,7 @@ class WakeWordDetector:
         )
         
         print("\nListening for wake word...")
-        print("Say: 'Hey Assistant' or 'Hello Jarvis'\n")
+        print("Say: 'Hey Assistant' or 'Hello Jabra'\n")
     
     def process_audio(self):
         while self.is_running:
